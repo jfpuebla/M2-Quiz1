@@ -32,6 +32,12 @@ body{
     font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif;
     text-decoration: underline;
 }
+#nba-logo{
+    border-radius: 0%;
+    border-style: none;
+    width:20% ;
+    filter: grayscale(0%);
+}
 
 img{
     border-radius: 50%;
